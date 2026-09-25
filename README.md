@@ -1,11 +1,42 @@
-# Hey there! I'm Brinda 👋
+# &#x20;I'm Brinda 
 
-💻 I'm a Diploma Computer Science student, building my way into the world of **AI, coding, and tech creativity**.
+🎓 **Diploma ICT Student | AI & Tech Enthusiast | Creator**
 
-🚀 Currently learning: **Python**, HTML/CSS, GitHub, and beginner-friendly projects  
-🧠 Interested in: AI, Web Development, Creative Tech  
-🌱 Dreaming of: Top-tier CS + AI universities in the USA & a career I love  
+I'm a Diploma student in **Information Communication Technology**, exploring the intersection of **AI, software development, technology, and creativity**.
 
-✨ What I'm building:
-- My personal portfolio on Notion + GitHub
-- useful projects that show my skills and personality
+### 🚀 What I'm currently doing
+
+*  Building and experimenting with **AI/ML projects**
+*  Learning and improving my **Python, web development & programming** skills
+*  Working on projects that solve practical problems
+*  Exploring **content creation, social media & creative technology**
+* 📚Constantly learning, experimenting, and building
+
+### 🛠️ Tech I'm working with
+
+**Languages & Technologies**
+
+`Python` `HTML` `CSS` `JavaScript` `Git` `GitHub` `OpenCV` `MediaPipe`
+
+**Interests**
+
+`AI/ML` `Web Development` `Computer Vision` `Technology` `Creative Tech`
+
+###  Featured Projects
+
+** AI Startup Validator**
+An AI-based project designed to analyze startup ideas and provide structured validation and insights.
+
+** Gesture Control AI**
+A real-time computer-vision project using **MediaPipe + OpenCV** to detect hand gestures and map them to system actions.
+
+###  What I'm working toward
+
+Building strong technical skills, creating meaningful projects, and eventually working at the intersection of **technology, AI, business, and creativity**.
+
+### 📫 Connect with me
+
+💼 **LinkedIn:** [Brinda Hingu](https://linkedin.com/in/brinda-hingu/)
+💻 **GitHub:** [@hingubrinda](https://github.com/hingubrinda)
+
+
